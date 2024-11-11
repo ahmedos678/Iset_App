@@ -10,4 +10,10 @@
     <style name="CustomButtonStyle" parent="Widget.MaterialComponents.Button">
         <item name="android:background">@drawable/btn_full_bg</item>
     </style>
+
+    <style name="navigationTheme">
+        <item name="colorPrimary">
+            @color/app_blue
+        </item>
+    </style>
 </resources>
